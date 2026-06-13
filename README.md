@@ -1,6 +1,6 @@
-# ⚽ Football Ticket Booking System
+#  Football Ticket Booking System
 
-## 📌 Project Overview
+##  Project Overview
 This is a **Football Ticket Booking System** database project.  
 It is designed to manage users, matches, and ticket bookings with proper relationships and SQL constraints.
 
@@ -12,7 +12,7 @@ The system demonstrates:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Design a normalized database structure
 - Implement relationships between tables
 - Ensure data integrity using constraints
@@ -23,13 +23,13 @@ The system demonstrates:
 ## ERD LIVE LINK:
 https://drawsql.app/teams/saif-rahmamn/diagrams/football-ticket-booking-system
 
-### 👤 Users Table
+###  Users Table
 Stores user information.
 
-### ⚽ Matches Table
+###  Matches Table
 Stores football match details.
 
-### 🎟️ Bookings Table
+###  Bookings Table
 Stores ticket booking information and connects Users & Matches.
 
 ---
@@ -42,7 +42,7 @@ Stores ticket booking information and connects Users & Matches.
 
 ---
 
-## 🧠 Key Concepts Used
+##  Key Concepts Used
 
 - Primary Key
 - Foreign Key
